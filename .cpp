@@ -12,7 +12,7 @@ int main()
         s+=vi*ti;
         
         vm+=ti;
-        
+  
     }
     double v=s/vm;
     if (v>vmax){
